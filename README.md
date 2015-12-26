@@ -2,7 +2,7 @@
 
 smart_shard_key is a tiny tool for generating smart_id and extracting shard_key from Smart ID.
 
-Smart ID is good way for id of sharding db/table. It is a little big long and composed of timestamp, shard_id and sequence.Smart ID keeps order of ID and contains many information. smart_shard_key is a tiny tool for generating smart_id and extracting information from Smart ID.
+Smart ID is good way for id of sharding db/table. It is a little big long and composed of timestamp, shard_id and local_id.Smart ID keeps order of ID and contains many information. smart_shard_key is a tiny tool for generating smart_id and extracting information from Smart ID.
 
 ## Installation
 
